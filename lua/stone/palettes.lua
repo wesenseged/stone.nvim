@@ -24,7 +24,6 @@ M.base = {
 }
 
 M.dark = {
-  -- same as base or customize if needed
   keyword     = "#c3a6ff",
   function_   = "#ffd580",
   constant    = "#ffae57",
