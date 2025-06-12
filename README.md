@@ -2,9 +2,14 @@
 
 A clean, minimal, and versatile Neovim colorscheme with `base`, `dark`, and `light` variants.
 
-![stone-preview](./preview.png)
+### Base Variant
+![Base Variant](screenshots/base.png)
 
-## ✨ Features
+### Dark Variant
+![Dark Variant](screenshots/dark.png)
+
+### Light Variant
+![Light Variant](screenshots/light.png)
 
 - 3 carefully tuned variants
 - Tree-sitter support
