@@ -7,6 +7,6 @@ if vim.fn.exists("syntax_on") then
   vim.cmd("syntax reset")
 end
 vim.o.background = "dark"
-vim.g.colors_name = "stone"
+vim.g.colors_name = "stone-base"
 
 highlights.apply(palettes.base)
