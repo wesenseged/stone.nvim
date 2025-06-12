@@ -1,4 +1,4 @@
--- colors/stone.lua
+-- colors/stone-base.lua
 local palettes = require("stone.palettes")
 local highlights = require("stone.highlights")
 

@@ -1,2 +1,2 @@
 -- plugin/stone.lua
-require("stone").setup()
+require("colors.stone-base").setup()
