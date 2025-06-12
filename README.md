@@ -72,7 +72,7 @@ require("stone").setup({
 ```
 
 ```
-vim.cmd.colorscheme "catppuccin"
+vim.cmd.colorscheme "stone-base"
 ```
 
 ---
